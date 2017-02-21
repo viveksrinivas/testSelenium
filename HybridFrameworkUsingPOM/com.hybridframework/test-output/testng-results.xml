@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[--> Click on 'Select Your Store']]>
+    </line>
+    <line>
+      <![CDATA[--> Selected location as 'California']]>
+    </line>
+    <line>
+      <![CDATA[--> Selected store 'La Jolla - 8825 Villa La Jolla Dr']]>
+    </line>
+    <line>
+      <![CDATA[--> Clicked on 'Continue']]>
+    </line>
+    <line>
+      <![CDATA[--> Verified shop name]]>
+    </line>
+    <line>
+      <![CDATA[--> List of Item available]]>
+    </line>
+    <line>
+      <![CDATA[--> Click on 'Seafood' link]]>
+    </line>
+    <line>
+      <![CDATA[--> Selected seafood item]]>
+    </line>
+    <line>
+      <![CDATA[--> Selected second item]]>
+    </line>
+    <line>
+      <![CDATA[--> No. of quantity as 2]]>
+    </line>
+    <line>
+      <![CDATA[--> Clicked on 'Add To Cart' button]]>
+    </line>
+    <line>
+      <![CDATA[--> Click on 'Checkout' button]]>
+    </line>
+    <line>
+      <![CDATA[--> Edited Cart quantity to 4]]>
+    </line>
+    <line>
+      <![CDATA[--> Clicked on 'Proceed To Checkout']]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="89271" started-at="2016-12-13T03:50:21Z" finished-at="2016-12-13T03:51:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="89271" started-at="2016-12-13T03:50:21Z" finished-at="2016-12-13T03:51:50Z">
+      <class name="testcases.Select_Store">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.Select_Store@29774679]" name="setUP" is-config="true" duration-ms="21370" started-at="2016-12-13T09:20:21Z" finished-at="2016-12-13T09:20:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:testcases.Select_Store@29774679]" name="testHomePage" duration-ms="66827" started-at="2016-12-13T09:20:42Z" finished-at="2016-12-13T09:21:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[--> Click on 'Select Your Store']]>
+            </line>
+            <line>
+              <![CDATA[--> Selected location as 'California']]>
+            </line>
+            <line>
+              <![CDATA[--> Selected store 'La Jolla - 8825 Villa La Jolla Dr']]>
+            </line>
+            <line>
+              <![CDATA[--> Clicked on 'Continue']]>
+            </line>
+            <line>
+              <![CDATA[--> Verified shop name]]>
+            </line>
+            <line>
+              <![CDATA[--> List of Item available]]>
+            </line>
+            <line>
+              <![CDATA[--> Click on 'Seafood' link]]>
+            </line>
+            <line>
+              <![CDATA[--> Selected seafood item]]>
+            </line>
+            <line>
+              <![CDATA[--> Selected second item]]>
+            </line>
+            <line>
+              <![CDATA[--> No. of quantity as 2]]>
+            </line>
+            <line>
+              <![CDATA[--> Clicked on 'Add To Cart' button]]>
+            </line>
+            <line>
+              <![CDATA[--> Click on 'Checkout' button]]>
+            </line>
+            <line>
+              <![CDATA[--> Edited Cart quantity to 4]]>
+            </line>
+            <line>
+              <![CDATA[--> Clicked on 'Proceed To Checkout']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.Select_Store@29774679]" name="tearDown" is-config="true" duration-ms="1050" started-at="2016-12-13T09:21:49Z" finished-at="2016-12-13T09:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Select_Store -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

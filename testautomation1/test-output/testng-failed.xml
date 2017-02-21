@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="webdriver" value="resources/chromedriver.exe"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="testautomation1.testTest">
+        <methods>
+          <include name="setup"/>
+          <include name="Setup"/>
+          <include name="Teardown"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- testautomation1.testTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

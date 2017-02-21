@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <parameter name = "webdriver" value ="resources/chromedriver.exe"/>
+  <test name="Test">
+    <classes>
+      
+      <class name="testautomation1.testTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
